@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.check.allTargets": false,
+    "rust-analyzer.cargo.allTargets": false,
+    "rust-analyzer.check.targets": [],
+    "rust-analyzer.cargo.features": [],
+    "rust-analyzer.cargo.target": "armv7a-none-eabi",
+    "rust-analyzer.cargo.extraEnv": {},
+    "rust-analyzer.files.exclude": [],
+    "editor.formatOnSave": true
+}
